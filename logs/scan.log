@@ -1,0 +1,65 @@
+=====================================
+OpenSCAP CIS Scan Started: Thu 05 Mar 2026 20:24:21 AEDT
+=====================================
+Scan completed.
+-------------------------
+Total Rules : 620
+Passed      : 239
+Failed      : 116
+Compliance  : 38%
+Report File : /root/openscap-compliance/reports/report_2026-03-05_20-24.html
+-------------------------
+Email alert sent.
+Scan finished successfully.
+=====================================
+OpenSCAP CIS Scan Started: Thu 05 Mar 2026 20:30:28 AEDT
+=====================================
+Scan completed.
+-------------------------
+Total Rules : 620
+Passed      : 239
+Failed      : 117
+Compliance  : 38%
+Report File : /root/openscap-compliance/reports/report_2026-03-05_20-30.html
+-------------------------
+Email alert sent.
+Scan finished successfully.
+=====================================
+OpenSCAP CIS Scan Started: Thu 05 Mar 2026 20:33:42 AEDT
+=====================================
+Scan completed.
+-------------------------
+Total Rules : 620
+Passed      : 239
+Failed      : 117
+Compliance  : 38%
+Report File : /root/openscap-compliance/reports/report_2026-03-05_20-33.html
+-------------------------
+Email alert sent.
+Scan finished successfully.
+=====================================
+OpenSCAP CIS Scan Started: Thu 05 Mar 2026 20:44:07 AEDT
+=====================================
+Scan completed.
+-------------------------
+Total Rules : 620
+Passed      : 239
+Failed      : 117
+Compliance  : 38%
+Report File : /root/openscap-compliance/reports/report_2026-03-05_20-44.html
+-------------------------
+Email alert sent.
+Scan finished successfully.
+=====================================
+OpenSCAP CIS Scan Started: Thu 05 Mar 2026 21:24:57 AEDT
+=====================================
+Scan completed.
+-------------------------
+Total Rules : 620
+Passed      : 345
+Failed      : 7
+Compliance  : 55%
+Report File : /root/openscap-compliance/reports/report_2026-03-05_21-24.html
+-------------------------
+Email alert sent.
+Scan finished successfully.
